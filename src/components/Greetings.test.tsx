@@ -1,5 +1,4 @@
 import { test, expect } from 'vitest'; // 👈 Add this line
-import React from 'react';
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import Greetings from './Greetings';
