@@ -1,4 +1,4 @@
-import { test, expect } from 'vitest'; // 👈 Add this line
+import { test, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import Greetings from './Greetings';
